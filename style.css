@@ -1,0 +1,16 @@
+.Thumbnail {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+
+}
+.row {
+    flex-direction: row;
+    align-items: center;
+}
+.Slide {
+    width: 500px;
+}
+.Logo {
+    width: 100px;
+}
